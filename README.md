@@ -32,4 +32,4 @@ Once the Lambda function and API Gateway are deployed, you can call the API endp
 If you want to clean up the resources created during this project, you can delete the Lambda function and API Gateway using the AWS Management Console, AWS CLI, or other AWS automation tools. Make sure to also delete any associated resources, such as IAM roles or policies, if they are no longer needed.
 
 ### Conclusion
-Congratulations! You have successfully deployed a Lambda function and API Gateway to create and call an API using serverless architecture in AWS. You can now use this pattern to build and deploy your own serverless applications, leveraging the power of Lambda and API Gateway to create scalable and cost-effective APIs.
+Successfully deployed a Lambda function and API Gateway to create and call an API using serverless architecture in AWS. You can now use this pattern to build and deploy your own serverless applications, leveraging the power of Lambda and API Gateway to create scalable and cost-effective APIs.
